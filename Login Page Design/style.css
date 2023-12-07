@@ -1,0 +1,78 @@
+.logo{
+    position:fixed;
+    top: 0%;
+    left: 45%;
+    padding-bottom: 15px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: none;
+    margin-bottom: none;
+    font-size: 28px;
+}
+
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+
+select, .btn, p.one,h2, h1, div,p{
+    width: 300px;
+    margin: 16px auto;
+    
+}
+
+.work-email {
+    margin: 20px;
+    margin-bottom: 0%;
+    margin-left: 40px;
+}
+
+label, select, .btn, p.one,div,p{
+    display: block;
+    margin-bottom: 5px;
+    width: 300px;
+    padding: 8px;
+}
+
+input { 
+    width: 300px;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-left: 40px;
+}
+
+.btn {
+    border: none;
+    background-color: inherit;
+    padding: 15px;
+    font-size:16px;
+    cursor:pointer;
+    outline:auto; color:rgb(84, 195, 158);
+    width: 300px;
+    margin: 25px auto;
+    text-align: center;
+}
+p.one {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60%;
+    text-decoration: none;
+}
+div { 
+    width: 380px;
+    height: 380px;
+    border-color: rgb(37, 43, 47);
+    border-width: 1px;
+    background-color: rgb(241, 241, 241);
+    border-style: groove;
+    margin-top: 5%;
+    padding: 6%;
+}
+
+.company-name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    margin-bottom: 0px;
+}
